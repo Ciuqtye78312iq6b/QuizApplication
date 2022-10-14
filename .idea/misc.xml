@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22093353271484373" />
+        <entry key="app/src/main/res/layout/activity_pregunta1.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_pregunta10.xml" value="0.2868972778320313" />
+        <entry key="app/src/main/res/layout/activity_pregunta2.xml" value="0.22817925787591317" />
+        <entry key="app/src/main/res/layout/activity_pregunta3.xml" value="0.2592323881624408" />
+        <entry key="app/src/main/res/layout/activity_pregunta4ctivity.xml" value="0.24447848554970567" />
+        <entry key="app/src/main/res/layout/activity_pregunta5.xml" value="0.26071012192878174" />
+        <entry key="app/src/main/res/layout/activity_pregunta6.xml" value="0.22772824937018796" />
+        <entry key="app/src/main/res/layout/activity_pregunta7.xml" value="0.2519149559131567" />
+        <entry key="app/src/main/res/layout/activity_pregunta8.xml" value="0.2475173729053442" />
+        <entry key="app/src/main/res/layout/activity_pregunta9.xml" value="0.28709561997565675" />
+        <entry key="app/src/main/res/layout/activity_puntos_obtenidos.xml" value="0.28689727783203123" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
